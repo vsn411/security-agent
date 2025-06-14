@@ -1,4 +1,5 @@
-# security-agent
+# 🛡️ Secure Multi-Agent Travel Assistant
+
 A Security AI agent to monitor, block agent interactions &amp; delegations. 
 
 ![screenshjto1](https://github.com/user-attachments/assets/078cff64-7efc-4be8-b3a9-e527a01fdd08)
@@ -8,7 +9,7 @@ A Security AI agent to monitor, block agent interactions &amp; delegations.
 ![screenshjto2](https://github.com/user-attachments/assets/0fb9fb6f-9e64-4006-949f-6bfaa2f77163)
 
 
-# 🛡️ Secure Multi-Agent Travel Assistant
+
 
 A modular, secure travel assistant system built with Chainlit, supporting agent handoffs, prompt injection defense (LlamaFirewall & LLM-Guard), and contextual security checks.
 
