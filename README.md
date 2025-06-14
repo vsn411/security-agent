@@ -55,9 +55,11 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+### Step 5: 
 
-Start the Chainlit app:
+Start the Chainlit app: 
+
+chainlit run main.py --port 8000
 
 - **Dependency Issues:**  
   Ensure all packages are up-to-date and compatible.
