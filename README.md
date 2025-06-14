@@ -25,17 +25,31 @@ A modular, secure travel assistant system built with Chainlit, supporting agent 
 ---
 
 
-## Setup
+## 🛠️ Installation Steps
 
-1. **Clone this repo:**
+### Step 1: Clone the GitHub Repository
 
+```bash
+git clone https://github.com/vsn411/security-agent.git
+cd security-agent
+```
 
-2. **Install dependencies:**
+### Step 2: Create and Activate a Virtual Environment
 
+```bash
+python -m venv venvmcp
+source venvmcp/bin/activate  # On Windows use: venvmcp\Scripts\activate
+```
+
+### Step 3: Install Python Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
+---
 
-3. **Configure environment variables:**
+### Step 4: Configure environment variables
 - For OpenAI or other LLMs, add your API keys to a `.env` file.
 
 ---
