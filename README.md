@@ -1,4 +1,4 @@
-# 🛡️ Secure Multi-Agent Travel Assistant
+# 🛡️ Security Guardian Agent for Multi-Agent Travel Assistant
 
 A Security AI agent to monitor, block agent interactions &amp; delegations. 
 
